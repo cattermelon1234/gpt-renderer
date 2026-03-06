@@ -1,3 +1,4 @@
+# DISCLAIMER: FULLY VIBE CODED
 # Offline Ollama Chat (SolidJS)
 
 A ChatGPT-style local frontend app (SolidJS + Vite) for Ollama that runs offline and renders:
